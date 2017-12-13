@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# This will destroy ALL foreman task data in Satellite 6.
+# Do not run if you are partial to any of this data.
+#
+# Can be useful for troubleshooting dynflow issues or performing a quick cleanup.
 
 echo ""
 echo "DELETING All task data"
